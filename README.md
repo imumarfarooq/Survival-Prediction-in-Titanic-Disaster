@@ -32,3 +32,4 @@ For avoiding operating system warnings, have to import the 'os' library.
 
 ## Conclusion:
 I've to write the blog post to understand the features survival rate and correlation between them. You may find it on medium.
+[https://medium.com/@silicon.smile1/factors-affect-the-survival-prediction-in-the-titanic-disaster-a0601ef6cce8]
